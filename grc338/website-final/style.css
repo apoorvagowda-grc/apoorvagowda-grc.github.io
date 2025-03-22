@@ -155,11 +155,11 @@ article {
     margin: auto;
 }
 
-homepageaddress {
+section.homepageaddress {
     color: rgb(248, 243, 226);
 }
 
-contactpageaddress {
+section.contactpageaddress {
     color: rgb(28 58 62);
 }
 
