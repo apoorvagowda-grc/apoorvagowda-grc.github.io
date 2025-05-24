@@ -20,8 +20,8 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(85,119,153);
-    font-family: sans-serif;
+    color: rgb(235 43 122);
+    font-family: "josefin-sans", sans-serif;
     font-weight: bold;
     text-decoration: none;
 }
@@ -36,58 +36,63 @@ a {
 }
 
 section.mainstoryteaser h2 {
-    font-family: serif;
+    font-family: "new-spirit", serif;
     font-weight: bold;
     font-size: 2.5em;
-    color: rgb(85,119,153);
+    color: rgb(235 43 122);
     margin-left: 0.25em;
 }
 
 section.secondarystoryteaser h2 {
-    font-family: serif;
+    font-family: "new-spirit", serif;
     font-weight: bold;
     font-size: 1.75em;
-    color: rgb(85,119,153);
+    color: rgb(235 43 122);
     margin: 0.25em 0 0 0.25em;
 }
 
+h3 {
+    font-family: "new-spirit", serif;
+    font-weight: bold;
+    font-size: 1.75em;
+}
 p {
-    font-family: sans-serif;
+    font-family: "josefin-sans", sans-serif;
     color: rgb(0,0,0);
     margin: 0.5em 0 1em 0.5em; 
 }
 
 section.tertiarystoryteaser h2 {
-    font-family: serif;
+    font-family: "new-spirit", serif;
     font-weight: bold;
     font-size: 1.25em;
-    color: rgb(85,119,153);
+    color: rgb(235 43 122);
     margin: 0.25em 0.4em 0 0.4em;
     padding-top: 0.4em;
-    border-top: solid 1px rgb(85,119,153);
+    border-top: solid 1px rgb(205 252 64);
 }
 
 article h2 {
-    font-family: serif;
+    font-family: "new-spirit", serif;
     font-weight: bold;
     font-size: 2.5em;
-    color: rgb(85,119,153);
+    color: rgb(235 43 122);
     margin-left: 0.25em;
 }
 
 footer {
-    background-color: rgb(85,119,153);
+    background-color: rgb(205 252 64);
     padding: 0.75em 0.5em;
     box-sizing: border-box;
 }
 
 footer p {
-    color: rgb(255,255,255);
+    color: rgb(235 43 122);
     margin: 0;
 }
 
 figcaption {
-    font-family: sans-serif;
+    font-family: "josefin-sans", sans-serif;
     color: rgb(0,0,0);
     padding-top: 0.5em;
     margin: 0 0 1em 0.5em; 
@@ -95,7 +100,7 @@ figcaption {
 }
 
 aside {
-    background-color: rgb(203,207,255);
+    background-color: rgb(254 241 244);
     padding: 1em 0.5em;
 }
 
